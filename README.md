@@ -7,6 +7,7 @@
 I am a software developer at Nineleaps. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 - 🔭 I’m currently working on Django/Flask
 - 🌱 I’m currently learning Express js
+- 🤖 Building ChatGPT plugins
 
 ## What I know :computer:
 - **Competitive Programming**
@@ -42,7 +43,7 @@ I am a software developer at Nineleaps. From very early on in my life, I started
 [![Instagram](https://img.shields.io/badge/-@riyaz_489-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/riyaz_489/)](https://www.instagram.com/riyaz_489/)
 [![HackerRank](https://img.shields.io/badge/-riyaz489_rk-gray?style=flat-square&logo=hackerrank&link=https://www.hackerrank.com/riyaz489_rk)](https://www.hackerrank.com/riyaz489_rk)
 [![Linkedin](https://img.shields.io/badge/-Riyazuddin%20Khan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/riyazuddin-khan/)](https://www.linkedin.com/in/riyazuddin-khan/)
-[![leetCode]() ]
+[![leetCode](https://img.shields.io/badge/leetcode-leetcode-orange)]
 (https://leetcode.com/riyaz489/)
 [![Mail](https://img.shields.io/badge/-riyaz489.rk@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/riyazuddin-khan/)](mailto:riyaz489.rk@gmail.com)
 
