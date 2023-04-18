@@ -43,7 +43,7 @@ I am a software developer at Nineleaps. From very early on in my life, I started
 [![Instagram](https://img.shields.io/badge/-@riyaz_489-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/riyaz_489/)](https://www.instagram.com/riyaz_489/)
 [![HackerRank](https://img.shields.io/badge/-riyaz489_rk-gray?style=flat-square&logo=hackerrank&link=https://www.hackerrank.com/riyaz489_rk)](https://www.hackerrank.com/riyaz489_rk)
 [![Linkedin](https://img.shields.io/badge/-Riyazuddin%20Khan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/riyazuddin-khan/)](https://www.linkedin.com/in/riyazuddin-khan/)
-[![leetCode](https://img.shields.io/badge/leetcode-leetcode-orange&link=https://leetcode.com/riyaz489/)](https://leetcode.com/riyaz489/)
+[![leetCode](https://img.shields.io/badge/-riyaz489-gray?style=flat-square&logo=leetcode&link=https://leetcode.com/riyaz489/)](https://leetcode.com/riyaz489/)
 [![Mail](https://img.shields.io/badge/-riyaz489.rk@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/riyazuddin-khan/)](mailto:riyaz489.rk@gmail.com)
 
 
