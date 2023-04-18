@@ -5,7 +5,7 @@
 
 ## About me 👨‍💻
 I am a software developer at Nineleaps. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working on Django/Flask
 - 🌱 I’m currently learning Express js
 
 ## What I know :computer:
